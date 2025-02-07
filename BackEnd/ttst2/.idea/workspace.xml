@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e364bcc-66a5-4439-92ad-9b69161f4870" name="변경" comment="1">
-      <change beforePath="$PROJECT_DIR$/../Graduation-work/src/main/java/com/example/ttst/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Graduation-work/src/main/java/com/example/ttst/controller/ProductController.java" afterDir="false" />
-    </list>
+    <list default="true" id="9e364bcc-66a5-4439-92ad-9b69161f4870" name="변경" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +119,7 @@
       <workItem from="1738945105402" duration="14000" />
       <workItem from="1738945148008" duration="20000" />
       <workItem from="1738945723838" duration="35000" />
-      <workItem from="1738945781955" duration="1492000" />
+      <workItem from="1738945781955" duration="1853000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />

@@ -16,8 +16,6 @@ public class ProductController {
 
     @GetMapping("/search")
     public List<ProductDto> search(@RequestParam String keyword) {
-        System.out.println("깃허브 데탑 브런치 테스트");
-        System.out.println(keyword);
         return productService.getProducts(keyword);
 
 
